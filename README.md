@@ -10,7 +10,7 @@ with some niche button like the walkman has. And you could add display to make s
 ## Project Preview
 
 ## 3D model
-Bwlow here is the full CAD assembly of the project, the .STEP files on the /CAD Folfer
+Bwlow here is the full CAD assembly of the project, the .STEP files on the /CAD Files Folder
 
 ## Wiring Diagram
 Shows how the ESP32 connect or wired with the DAC and other components
@@ -34,7 +34,7 @@ Shows how the ESP32 connect or wired with the DAC and other components
 - MT3608 Step-Up Boost Converter
 
 ## BOM (Bill of Materials)
-BOM Files on the /BOM folder ;)
+BOM Files on the /BOM (Bill Of Materials) folder ;)
 
 ## Firmware
 FIrmware is on the /Firmware folder and it is written using Arduino IDE
