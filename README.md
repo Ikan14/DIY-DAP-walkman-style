@@ -22,16 +22,16 @@ Shows how the ESP32 connect or wired with the DAC and other components
 - "Walkman Style" with 3D Printed case
 
 ## Component I use
--ESP32 (Main controller)
--MicroSD card Module (storage)
--MAX98357A DAC (Changing signal to analog)
--Audiojack 3.5 mm (audio output)
--0.96 inch OLED display (Display)
--Button (control)
--18650 Lithium Battery (power supply)
--TP4056 Charging Module
--Baterry Holder
--MT3608 Step-Up Boost Converter
+- ESP32 (Main controller)
+- MicroSD card Module (storage)
+- MAX98357A DAC (Changing signal to analog)
+- Audiojack 3.5 mm (audio output)
+- 0.96 inch OLED display (Display)
+- Button (control)
+- 18650 Lithium Battery (power supply)
+- TP4056 Charging Module
+- Baterry Holder
+- MT3608 Step-Up Boost Converter
 
 ## BOM (Bill of Materials)
 BOM Files on the /BOM folder ;)
