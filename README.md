@@ -37,7 +37,7 @@ Shows how the ESP32 connect or wired with the DAC and other components
 BOM Files on the /BOM (Bill Of Materials) folder ;)
 
 ## Firmware
-FIrmware is on the /Firmware folder and it is written using Arduino IDE
+FIrmware is on the /Firmware folder and it is written using C++ in Arduino IDE framework
 
 ## Files Included
 - CAD files (.STEP & source)
