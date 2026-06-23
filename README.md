@@ -35,16 +35,22 @@ Shows how the ESP32 connect or wired with the DAC and other components
 
 ## BOM (Bill of Materials)
 BOM Files on the /BOM (Bill Of Materials) folder ;)
-[Uploading MINI DAPName,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"Tactile Switch","As the control of the DAP",3,0.17,"https://tk.tokopedia.com/ZSCdCuva5/","Tokopedia"
-"One battery holder","To hold the battry",1,0.27,"https://tk.tokopedia.com/ZSCdCpkyx/","Tokopedia"
-"3.7 V 18650 li ion battery","As the power supply",1,0.49,"https://tk.tokopedia.com/ZSCdCrD4L/","Tokopedia"
-"TP4056 module TYPE-C","To charge up the battry",1,0.34,"https://tk.tokopedia.com/ZSCdQsH1c/","Tokopedia"
-"MT608 Modul Step Up Boost DC to DC 2A USB TYPE C Type-C","For stepping Up the current",1,0.63,"https://tk.tokopedia.com/ZSCdQSWaG/https://tk.tokopedia.com/ZSCdQSWaG/","Tokopedia"
-"OLED I2C 0.91'' inch Module","As the screen",1,1.76,"https://tk.tokopedia.com/ZSCdxTECL/","Tokopedia"
-"Micro SDcard module reader","To store our music file",1,0.56,"https://tk.tokopedia.com/ZSCdQ1gt9/","Tokopedia"
-"PCM5102 DAC Module with audiojack 3.5 mm","For changing Digital signal into Analog",1,2.80,"https://tk.tokopedia.com/ZSCdxNCav/","Tokopedia"
-"ESP32 C3 DevKit","As the mainboard",1,4.54,"https://tk.tokopedia.com/ZSCdxLQtW/","Tokopedia" SNOWY DIY-bom (2).csv…]()
+Components List
+
+| Name | Purpose | Qty | Total Cost (USD) | Source / Link | Distributor |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| **Tactile Switch** | As the control of the DAP | 3 | $0.17 | [Link](https://tk.tokopedia.com/ZSCdCuva5/) | Tokopedia |
+| **One battery holder** | To hold the battery | 1 | $0.27 | [Link](https://tk.tokopedia.com/ZSCdCpkyx/) | Tokopedia |
+| **3.7 V 18650 li-ion battery** | As the power supply | 1 | $0.49 | [Link](https://tk.tokopedia.com/ZSCdCrD4L/) | Tokopedia |
+| **TP4056 module TYPE-C** | To charge up the battery | 1 | $0.34 | [Link](https://tk.tokopedia.com/ZSCdQsH1c/) | Tokopedia |
+| **MT608 Modul Step Up Boost DC to DC 2A USB TYPE C** | For stepping up the current | 1 | $0.63 | [Link](https://tk.tokopedia.com/ZSCdQSWaG/) | Tokopedia |
+| **OLED I2C 0.91'' inch Module** | As the screen | 1 | $1.76 | [Link](https://tk.tokopedia.com/ZSCdxTECL/) | Tokopedia |
+| **Micro SD card module reader** | To store our music file | 1 | $0.56 | [Link](https://tk.tokopedia.com/ZSCdQ1gt9/) | Tokopedia |
+| **PCM5102 DAC Module with audiojack 3.5 mm** | For changing Digital signal into Analog | 1 | $2.80 | [Link](https://tk.tokopedia.com/ZSCdxNCav/) | Tokopedia |
+| **ESP32 C3 DevKit** | As the mainboard | 1 | $4.54 | [Link](https://tk.tokopedia.com/ZSCdxLQtW/) | Tokopedia |
+
+---
+*Note: Costs are estimation values in USD based on local distributor pricing.*
 
 
 ## Firmware
