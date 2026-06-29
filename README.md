@@ -8,7 +8,8 @@ Music playlist, with ESP32 as the microcontroller, SD card module to filled with
 with some niche button like the walkman has. And you could add display to make some UI ! >:D.
 
 ## Project Preview
-<img width="3504" height="2478" alt="Assembly 1 (2)" src="https://github.com/user-attachments/assets/101366f6-042d-46fc-bbae-fae04aa1789c" />
+<img width="3504" height="2478" alt="Assembly 1 (4)" src="https://github.com/user-attachments/assets/d1b925e1-8660-4ad1-b4a9-4647ffaabc56" />
+<img width="3504" height="2478" alt="Assembly 1" src="https://github.com/user-attachments/assets/c014ba1f-02a6-408f-b7ce-49a0e978652e" />
 
 
 ## 3D model
