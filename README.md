@@ -17,6 +17,9 @@ Bwlow here is the full CAD assembly of the project, the .STEP files on the /CAD 
 <img width="3504" height="2478" alt="Assembly 1 (2)" src="https://github.com/user-attachments/assets/c26b8b57-2dc4-4ba1-8e1e-a2e0092fc991" />
 <img width="3504" height="2478" alt="Assembly 1 (4)" src="https://github.com/user-attachments/assets/1e2a1cc8-7655-4b34-bda6-d7fb63b399a6" />
 
+## Source Design
+https://cad.onshape.com/documents/cdf923aa097df220a4b09fb1/w/958292e6abd58ac5f25ffee2/e/462f93d2c8d04da2a323aa71?renderMode=0&uiState=6a429a18e3ae4b6fae6d3625
+
 ## Wiring Diagram
 Shows how the ESP32 connect or wired with the DAC and other components
 
