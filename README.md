@@ -22,6 +22,8 @@ https://cad.onshape.com/documents/cdf923aa097df220a4b09fb1/w/958292e6abd58ac5f25
 
 ## Wiring Diagram
 Shows how the ESP32 connect or wired with the DAC and other components
+<img width="668" height="403" alt="Screenshot 2026-07-02 100318" src="https://github.com/user-attachments/assets/df059d82-8199-4f08-817c-55e55d9f02ac" />
+
 
 ## Features :D
 - Play Mp3 files by the SD card
